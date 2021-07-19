@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.text{
+    font-family: 'Acme', sans-serif;
+}
+#title{
+   
+    color: red;
+   
+}
+.logo:hover
+{
+    color: red;
+}
+.bg{
+    background-image: url();
+    width: 50%;
+}
+.hero-image {
+    background-image: url("../images/bg.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+  }
+  
